@@ -1,5 +1,5 @@
 # ezsaver
-Lightweight tool to simplify saving/loading stuff in Jupyter notebooks.
+Lightweight tool to simplify saving/loading stuff in Python.
 
 ## Installation
 Install with pip
