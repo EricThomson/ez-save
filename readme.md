@@ -20,8 +20,8 @@ To load the data later, use `ez.load()`, giving it the filepath as an argument. 
     loaded_data = ez.load(filepath)
 
     # keys are same name as original variables
-    data1 = saved_data['data1']
-    data2 = saved_data['data2']
+    data1 = loaded_data['data1']
+    data2 = loaded_data['data2']
 
 If you have a feature request or problem, please open an issue. Note because of complexities of Python, ezsave does not work if you are coding directly from the command line .
 
